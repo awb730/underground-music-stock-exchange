@@ -1,6 +1,6 @@
 # UMExchange - Underground Music Exchange
 
-A full-stack data engineering platform that treats underground rap artists like financial assets. Live streaming data is pulled into a quant-style pipeline that computes momentum indicators, classifies artists into market signals, and lets users open simulated LONG/SHORT positions on whether an artist's listener base will rise or fall.
+A full-stack data engineering platform that treats musicians like financial assets. Live streaming data is pulled into a quant-style pipeline that computes momentum indicators, classifies artists into market signals, and lets users open simulated LONG/SHORT positions on whether an artist's listener base will rise or fall.
 
 ![Home Page Screenshot](docs/screenshots/home-page.png)
 ![Leaderboard Screenshot](docs/screenshots/leaderboard.png)
