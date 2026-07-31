@@ -76,6 +76,10 @@ def get_all_artists():
 def root():
     return {"message": "Music Quant API is running"}
 
+@app.get("/health")
+def health():
+    return {"status": "ok"}
+
 @app.get("/artists")
 def list_artists():
     artists = get_all_artists()
